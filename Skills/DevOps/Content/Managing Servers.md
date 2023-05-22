@@ -7,4 +7,4 @@ Server management includes all of the monitoring and maintenance required for se
 ## Summary
 
 - [[Operating System]]
-- Learn to live in Terminal
+- [[Live in Terminal]]

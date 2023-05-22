@@ -6,7 +6,7 @@ DevOps is not a specific job title or role, but rather a set of practices and pr
 ----
 ### What is a DevOps Enginner?
 
-While DevOps is a mindset and set of practices, organizations need people to implement and manage the tools and technologies that enable DevOps practices. This is where the role of DevOps Engineer comes in. A DevOps Engineer is responsible for developing, deploying, and maintaining the infrastructure and software systems that support the DevOps culture and practices within an organization. This includes tasks such as designing and building automation frameworks, implementing Continuous Integration/Continuous Delivery ([[CI.CD]]) pipelines, managing infrastructure as code, and [[monitoring]] and [[logging]] systems
+While DevOps is a mindset and set of practices, organizations need people to implement and manage the tools and technologies that enable DevOps practices. This is where the role of DevOps Engineer comes in. A DevOps Engineer is responsible for developing, deploying, and maintaining the infrastructure and software systems that support the DevOps culture and practices within an organization. This includes tasks such as designing and building automation frameworks, implementing Continuous Integration/Continuous Delivery (CI/CD) pipelines, managing infrastructure as code, and monitoring and logging systems
 
 Although DevOps is a culture and mindset, having a dedicated role like a DevOps Engineer can help to ensure that the necessary technical aspects of DevOps are being properly addressed within an organization. The role of a DevOps Engineer can be filled by individuals with various backgrounds, such as software developers, system administrators, network engineers, or others, who have the necessary skills and experience to work with the relevant tools and technologies.
 
@@ -29,7 +29,7 @@ Some common misconceptions about DevOps include:
 ----
 ### How to become a DevOps Enginner?
 
-To become a DevOps Engineer, you need to have technical skills in areas such as development, [[automation]], [[containerization]], [[cloud]], [[CI.CD pipelines]] etc. Some sample tools and technologies to learn may include any programming language, [[AWS]], [[Ansible]], [[Terraform]], [[Docker]], [[Kubernetes]], [[Jenkins]], [[Git]], and [[monitoring]] and [[logging]] tools. Gain experience by working on DevOps projects, develop a DevOps mindset, get certified, and apply for DevOps Engineer positions by highlighting your skills and experience in your resume.
+To become a DevOps Engineer, you need to have technical skills in areas such as development, automation, containerization, cloud, CI.CD pipelines etc. Some sample tools and technologies to learn may include any programming language, AWS, Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, and monitoring and logging tools. Gain experience by working on DevOps projects, develop a DevOps mindset, get certified, and apply for DevOps Engineer positions by highlighting your skills and experience in your resume.
 
 ## Concepts
 
